@@ -9,6 +9,7 @@ The code under ``||player:on chat command||`` will run when you type **chicken**
 ```blocks
 player.onChat("chicken", function () {
     mobs.spawn(COW, pos(0, 0, 0))
+    player.teleport(pos(0, 100, 0))
 })
 ```
 
