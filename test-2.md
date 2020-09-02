@@ -23,4 +23,9 @@ player.onChat("square", function () {
         agent.turn(LEFT_TURN)
     }
 })
+player.onChat("goldstairs", function () {
+    builder.teleportTo(pos(0, 0, 0))
+    builder.move(FORWARD, 1)
+    builder.move(UP, 1)
+})
 ```
