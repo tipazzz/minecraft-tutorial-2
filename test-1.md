@@ -8,7 +8,7 @@ The code under ``||player:on chat command||`` will run when you type **chicken**
 
 ```blocks
 player.onChat("chicken", function () {
-    mobs.spawn(CHICKEN, pos(0, 0, 0))
+    mobs.spawn(COW, pos(0, 0, 0))
 })
 ```
 
@@ -22,6 +22,6 @@ The **~** symbol means that the coordinate is relative to the player.
 ```blocks
 player.onChat("chicken", function () {
     //% highlight
-    mobs.spawn(CHICKEN, pos(0, 10, 0))
+    mobs.spawn(COW, pos(0, 10, 0))
 })
 ```
