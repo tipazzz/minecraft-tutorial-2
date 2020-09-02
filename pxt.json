@@ -12,6 +12,7 @@
         "main.ts",
         "test-1.md",
         "test-2.md",
+        "tutorial-info-cache.json",
         "tutorial-info-cache.json"
     ],
     "testFiles": [
