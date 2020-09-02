@@ -1,4 +1,4 @@
-# TITLE
+# TUTORIAL 2
 ## Step 2
 
 Put in ``||mobs:spawn||`` to spawn a chicken at your position.
