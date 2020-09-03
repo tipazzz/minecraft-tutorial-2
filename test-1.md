@@ -1,5 +1,5 @@
 # Spawn things!
-## Step 2sfdfsdf
+## Step 1
 
 Put in ``||mobs:spawn||`` to spawn a chicken at your position.
 
