@@ -13,7 +13,7 @@ player.onChat("chicken", function () {
 })
 ```
 
-## Step 3 @fullscreen
+## Step 2 @fullscreen
 
 Change the spawn position to **10 blocks** above your player.
 
