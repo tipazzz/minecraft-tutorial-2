@@ -1,7 +1,7 @@
 # Spawn things!
 ## Step 1
 
-Put in ``||mobs:spawn||`` to spawn a chicken at your position.
+Положи  in ``||mobs:spawn||`` to spawn a chicken at your position.
 
 The code under ``||player:on chat command||`` will run when you type **chicken** in the Minecraft chat.
 **~0 ~0 ~0** is the relative 3D position of the player.
